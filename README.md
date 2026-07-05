@@ -1,8 +1,8 @@
 # loan-prediction-project
 Loan Approval Prediction
 
-Name : Your Name
-Roll No : Your Roll Number
+Name : SUJAL VERMA
+Roll No : 2300270310184
 
 Software Used
 ---------------
